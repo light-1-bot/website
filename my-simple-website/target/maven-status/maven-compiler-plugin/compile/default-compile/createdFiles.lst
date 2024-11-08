@@ -1,0 +1,5 @@
+com\it\MySimpleWebsiteApplication.class
+com\it\mapper\UserMapper.class
+com\it\controller\UserController.class
+com\it\service\UserService.class
+com\it\pojo\User.class

@@ -1,0 +1,33 @@
+/*body {
+    font-family: Arial, sans-serif;
+}*/
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("images/v2-ed385e72baf0a9c1d06c633982672402_r.jpg");
+    background-size: cover; /* 图片全屏覆盖 */
+    background-position: center; /* 图片居中显示 */
+    background-repeat: no-repeat; /* 防止图片重复 */
+    color: #fff; /* 设置文本颜色以提高可读性 */
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    margin-top: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+}
